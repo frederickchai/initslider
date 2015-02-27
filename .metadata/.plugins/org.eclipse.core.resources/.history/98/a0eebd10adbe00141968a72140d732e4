@@ -22,7 +22,7 @@ public class SplashActivity extends FragmentActivity {
 			goToMain();
 		}else{
 			getSomeData();
-			goToIntro();
+//			goToIntro();
 		}
 	
 	}

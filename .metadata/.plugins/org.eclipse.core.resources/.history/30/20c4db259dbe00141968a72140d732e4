@@ -48,9 +48,9 @@ public class SplashActivity extends FragmentActivity {
 		startActivity(in);
 	}
 	
-	public void onRestart(){
-	   super.onResume();
-	   finish();
-       return;
-	}
+//	public void onResume(){
+//	   super.onResume();
+//	   finish();
+//       return;
+//	}
 }
